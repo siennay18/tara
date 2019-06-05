@@ -1,0 +1,21 @@
+h1{color:green}
+h3{color:hotpink;
+font-family: 'Roboto Slab', serif;}
+.one{font-family:"Arial";
+font-size:30px;
+text-align: center;}
+/* .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  }
+   */
+  .img {
+      position: relative;
+      float: left;
+      width:  100px;
+      height: 100px;
+      background-position: 50% 50%;
+      background-repeat:   no-repeat;
+      background-size:     cover;
+  }
